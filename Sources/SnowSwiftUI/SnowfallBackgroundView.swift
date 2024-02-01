@@ -35,7 +35,7 @@ public struct SnowfallBackground: View {
                     )
                     .onAppear {
                         withAnimation(
-                            Animation.linear(duration: animationDuration).repeatCount(2)
+                            Animation.linear(duration: animationDuration).repeatCount(2, autoreverses: false)
                         ) {
                             isAnimating = true
                         }
