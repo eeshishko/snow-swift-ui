@@ -1,8 +1,7 @@
 # SnowSwiftUI ❄️
 
 Small SPM package with snowflakes views and background built purely on SwiftUI
-
-![](https://github.com/eeshishko/snow-swift-ui/assets/14946233/ab10d576-b1b9-4b02-a6cc-3e5f5df8f4b6)
+![](https://github.com/eeshishko/snow-swift-ui/assets/14946233/2eba9b46-823b-49e0-a5f1-f18f07893dcb)
 
 ## Add a dependency using SPM
 
